@@ -1,6 +1,6 @@
 # Stock Chart Viewer (GitHub Pages)
 
-Static stock dashboard with daily auto-refresh via GitHub Actions (Yahoo Finance), hosted on GitHub Pages. **Liquid Stocks group is removed.**
+Static stock dashboard with daily auto-refresh via GitHub Actions (Yahoo Finance), hosted on GitHub Pages.
 
 ## Build data locally
 
